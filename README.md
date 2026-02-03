@@ -16,3 +16,5 @@ Bug bounty hunter | Web security researcher | Finding and reporting vulnerabilit
 **Fix**: Validate `slug` parameter, encode output, add CSP header  
 
 **Status**: Reported to OpenBugBounty
+<img width="1274" height="508" alt="изображение" src="https://github.com/user-attachments/assets/fba7fc28-e2c0-4d4f-9496-45fb316eb5b6" />
+
